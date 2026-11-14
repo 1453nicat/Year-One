@@ -35,8 +35,6 @@ Regression, classification, computer vision, recommender systems, and so on. Mos
 | [Sentiment_Analysis_on_Product_Reviews](./Sentiment_Analysis_on_Product_Reviews) | NLP sentiment classification of Amazon product reviews. |
 | [little-women-book](./little-women-book) | Text analysis around the Little Women text. |
 | [Online-Retail](./Online-Retail) | Retail analytics on online transaction data. |
-| [Eigenvalues_Eigenvectors](./Eigenvalues_Eigenvectors) | Explanatory project on eigenvalues, eigenvectors, and matrix theory. |
-| [Levenshtein_distance](./Levenshtein_distance) | Explains the Levenshtein edit-distance algorithm and its uses. |
 | [FER2013](./FER2013) | Facial expression recognition on the FER2013 dataset. |
 | [Recommender-System](./Recommender-System) | GroupLens-based movie recommendation system. |
 | [word-to-audiobook](./word-to-audiobook) | Text-to-audio conversion for creating audiobooks. |
