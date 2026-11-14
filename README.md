@@ -1,6 +1,6 @@
 <img width="1055" height="330" alt="5195044196606670032" src="https://github.com/user-attachments/assets/2cec1ff7-7e15-42a5-8f4b-96813310a847" />
 
-# 🦇 Rookie Origins
+# 🦇 Year One
 
 > *Every legend has a first night out.*
 
