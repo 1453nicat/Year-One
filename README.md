@@ -10,7 +10,7 @@ Some of these are messy. A few make me wince. All of them taught me something, a
 
 ## What's inside
 
-Regression, classification, NLP, computer vision, recommender systems, and a bit of math theory. Mostly classic datasets, because that's how you learn the craft before you try to build something new.
+Regression, classification, computer vision, recommender systems, and so on. Mostly classic datasets, because that's how you learn the craft before you try to build something new.
 
 ## 🗂️ Case Files
 
