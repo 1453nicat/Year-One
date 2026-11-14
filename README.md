@@ -1,4 +1,4 @@
-![Rookie Origins banner](assets/banner.png)
+![<img width="1055" height="330" alt="5195044196606670032" src="https://github.com/user-attachments/assets/2cec1ff7-7e15-42a5-8f4b-96813310a847" />]
 
 # 🦇 Rookie Origins
 
@@ -14,14 +14,14 @@ Regression, classification, NLP, computer vision, recommender systems, and a bit
 
 ## 🗂️ Case Files
 
-| Case File | Briefing | Original Repo |
+| Case File | Briefing |
 |-----------|----------|---------------|
-| [Linear_Regression_Model](./Linear_Regression_Model) | Linear regression project for predictive modeling. | [repo](https://github.com/1453nicat/Linear_Regression_Model) |
-| [Multiple-Linear-Regression](./Multiple-Linear-Regression) | Multiple regression analysis for advertising and sales relationships. | [repo](https://github.com/1453nicat/Multiple-Linear-Regression) |
-| [Neural_Network_MNIST](./Neural_Network_MNIST) | Neural network model trained on the MNIST dataset. | [repo](https://github.com/1453nicat/Neural_Network_MNIST) |
-| [Image-Classification-PyTorch](./Image-Classification-PyTorch) | Simple image classification project using PyTorch. | [repo](https://github.com/1453nicat/Image-Classification-PyTorch) |
-| [Image-Classification-Bot](./Image-Classification-Bot) | Telegram bot for image classification. | [repo](https://github.com/1453nicat/Image-Classification-Bot) |
-| [Wine_Quality_Prediction](./Wine_Quality_Prediction) | Wine quality prediction using machine learning. | [repo](https://github.com/1453nicat/Wine_Quality_Prediction) |
+| [Linear_Regression_Model](./Linear_Regression_Model) | Linear regression project for predictive modeling. |
+| [Multiple-Linear-Regression](./Multiple-Linear-Regression) | Multiple regression analysis for advertising and sales relationships. |
+| [Neural_Network_MNIST](./Neural_Network_MNIST) | Neural network model trained on the MNIST dataset. |
+| [Image-Classification-PyTorch](./Image-Classification-PyTorch) | Simple image classification project using PyTorch. |
+| [Image-Classification-Bot](./Image-Classification-Bot) | Telegram bot for image classification. |
+| [Wine_Quality_Prediction](./Wine_Quality_Prediction) | Wine quality prediction using machine learning. |
 | [PIMA_Diabetes_Prediction](./PIMA_Diabetes_Prediction) | Diabetes prediction on the PIMA Indian Diabetes dataset. | [repo](https://github.com/1453nicat/PIMA_Diabetes_Prediction) |
 | [Heart_Disease_Prediction](./Heart_Disease_Prediction) | Heart disease prediction based on the UCI dataset. | [repo](https://github.com/1453nicat/Heart_Disease_Prediction) |
 | [Parkinson-s-Disease-Detection-using-Machine-Learning](./Parkinson-s-Disease-Detection-using-Machine-Learning) | Detects Parkinson's disease from medical feature data. | [repo](https://github.com/1453nicat/Parkinson-s-Disease-Detection-using-Machine-Learning) |
