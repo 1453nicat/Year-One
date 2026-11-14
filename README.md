@@ -16,27 +16,31 @@ Regression, classification, computer vision, recommender systems, and so on. Mos
 
 | Case File | Briefing |
 |-----------|----------|
-| [Linear_Regression_Model](./Linear_Regression_Model) | Linear regression project for predictive modeling. |
-| [Multiple-Linear-Regression](./Multiple-Linear-Regression) | Multiple regression analysis for advertising and sales relationships. |
-| [Neural_Network_MNIST](./Neural_Network_MNIST) | Neural network model trained on the MNIST dataset. |
-| [Image-Classification-PyTorch](./Image-Classification-PyTorch) | Simple image classification project using PyTorch. |
-| [Image-Classification-Bot](./Image-Classification-Bot) | Telegram bot for image classification. |
-| [Wine_Quality_Prediction](./Wine_Quality_Prediction) | Wine quality prediction using machine learning. |
-| [PIMA_Diabetes_Prediction](./PIMA_Diabetes_Prediction) | Diabetes prediction on the PIMA Indian Diabetes dataset. |
-| [Heart_Disease_Prediction](./Heart_Disease_Prediction) | Heart disease prediction based on the UCI dataset. |
-| [Parkinson-s-Disease-Detection-using-Machine-Learning](./Parkinson-s-Disease-Detection-using-Machine-Learning) | Detects Parkinson's disease from medical feature data. |
-| [Sonar_Rock_Mine_Analysis](./Sonar_Rock_Mine_Analysis) | Sonar classification to distinguish rock vs. mine. |
-| [Gold_Price_Prediction](./Gold_Price_Prediction) | Predicts gold prices using historical market data. |
+| [Anomaly_Detection_System](./Anomaly_Detection_System) | Anomaly detection project for spotting unusual patterns in data. |
+| [Big_Mart_Sales_Prediction](./Big_Mart_Sales_Prediction) | Sales forecasting to optimize inventory and retail strategy. |
 | [Calories-Burnt-Prediction](./Calories-Burnt-Prediction) | Regression model to estimate calories burned. |
 | [Car_Price_Prediction](./Car_Price_Prediction) | Predicts car prices with linear and regularized regression. |
-| [Big_Mart_Sales_Prediction](./Big_Mart_Sales_Prediction) | Sales forecasting to optimize inventory and retail strategy. |
+| [Credit-Risk-Analysis](./Credit-Risk-Analysis) | Credit risk assessment using ML to classify loan default risk. |
+| [FER2013](./FER2013) | Facial expression recognition on the FER2013 dataset. |
+| [Gold_Price_Prediction](./Gold_Price_Prediction) | Predicts gold prices using historical market data. |
+| [Heart_Disease_Prediction](./Heart_Disease_Prediction) | Heart disease prediction based on the UCI dataset. |
+| [Image-Classification-Bot](./Image-Classification-Bot) | Telegram bot for image classification. |
+| [Image-Classification-PyTorch](./Image-Classification-PyTorch) | Simple image classification project using PyTorch. |
+| [Linear_Regression_Model](./Linear_Regression_Model) | Linear regression project for predictive modeling. |
+| [Model-Hyperparameter-Tuning](./Model-Hyperparameter-Tuning) | Model optimization project focused on hyperparameter tuning. |
+| [Multiple-Linear-Regression](./Multiple-Linear-Regression) | Multiple regression analysis for advertising and sales relationships. |
+| [Neural_Network_MNIST](./Neural_Network_MNIST) | Neural network model trained on the MNIST dataset. |
+| [Online-Retail](./Online-Retail) | Retail analytics on online transaction data. |
+| [PIMA_Diabetes_Prediction](./PIMA_Diabetes_Prediction) | Diabetes prediction on the PIMA Indian Diabetes dataset. |
+| [Parkinson-s-Disease-Detection-using-Machine-Learning](./Parkinson-s-Disease-Detection-using-Machine-Learning) | Detects Parkinson's disease from medical feature data. |
+| [RFM-analysis](./RFM-analysis) | Customer segmentation using Recency, Frequency, Monetary analysis. |
+| [Recommender-System](./Recommender-System) | GroupLens-based movie recommendation system. |
+| [Sentiment_Analysis_on_Product_Reviews](./Sentiment_Analysis_on_Product_Reviews) | NLP sentiment classification of Amazon product reviews. |
+| [Sonar_Rock_Mine_Analysis](./Sonar_Rock_Mine_Analysis) | Sonar classification to distinguish rock vs. mine. |
 | [Stock_Analysis_Random_Forest_Regressor](./Stock_Analysis_Random_Forest_Regressor) | Stock trend prediction using random forest regression. |
 | [Unemployment_Analysis_with_Python](./Unemployment_Analysis_with_Python) | Unemployment trend analysis and visualization. |
-| [Sentiment_Analysis_on_Product_Reviews](./Sentiment_Analysis_on_Product_Reviews) | NLP sentiment classification of Amazon product reviews. |
+| [Wine_Quality_Prediction](./Wine_Quality_Prediction) | Wine quality prediction using machine learning. |
 | [little-women-book](./little-women-book) | Text analysis around the Little Women text. |
-| [Online-Retail](./Online-Retail) | Retail analytics on online transaction data. |
-| [FER2013](./FER2013) | Facial expression recognition on the FER2013 dataset. |
-| [Recommender-System](./Recommender-System) | GroupLens-based movie recommendation system. |
 | [word-to-audiobook](./word-to-audiobook) | Text-to-audio conversion for creating audiobooks. |
 
 ## Why keep them?
