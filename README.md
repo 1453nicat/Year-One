@@ -45,5 +45,4 @@ Regression, classification, NLP, computer vision, recommender systems, and a bit
 
 Gotham wasn't built in a night, and neither was any of this. The gap between these projects and what I build now is the whole point.
 
-![The city at night](<img width="994" height="785" alt="5420432668576392280" src="https://github.com/user-attachments/assets/e3d987c3-dd35-4980-8aff-cb45420a3859" />
-)
+![<img width="994" height="785" alt="5420432668576392280" src="https://github.com/user-attachments/assets/e3d987c3-dd35-4980-8aff-cb45420a3859" />]
