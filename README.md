@@ -27,6 +27,7 @@ Regression, classification, computer vision, recommender systems, and so on. Mos
 | [Image-Classification-Bot](./Image-Classification-Bot) | Telegram bot for image classification. |
 | [Image-Classification-PyTorch](./Image-Classification-PyTorch) | Simple image classification project using PyTorch. |
 | [Linear_Regression_Model](./Linear_Regression_Model) | Linear regression project for predictive modeling. |
+| [MobileNetV2_Transfer_Learning](./MobileNetV2_Transfer_Learning) | Transfer-learning image classifier for bird species and insects. |
 | [Model-Hyperparameter-Tuning](./Model-Hyperparameter-Tuning) | Model optimization project focused on hyperparameter tuning. |
 | [Multiple-Linear-Regression](./Multiple-Linear-Regression) | Multiple regression analysis for advertising and sales relationships. |
 | [Neural_Network_MNIST](./Neural_Network_MNIST) | Neural network model trained on the MNIST dataset. |
